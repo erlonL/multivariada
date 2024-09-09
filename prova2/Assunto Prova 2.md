@@ -1,0 +1,4 @@
+- Clusterização (Capítulo 11 do livro)
+- Análise de discriminante
+	- Regras de máxima verossimilhança
+	- minimizar o custo esperado
